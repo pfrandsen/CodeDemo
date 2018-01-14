@@ -8,4 +8,5 @@ A way to demo code
 * lolcat (add rainbow of colors to terminal output, https://github.com/busyloop/lolcat)
 * asciinema-player (https://github.com/asciinema/asciinema-player)
 * figlet (ascii art generator)
+* cloc (count lines of code, http://cloc.sourceforge.net/)
 
