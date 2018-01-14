@@ -9,6 +9,7 @@ A way to demo code
 * asciinema-player (https://github.com/asciinema/asciinema-player)
 * figlet (ascii art generator)
 * cloc (count lines of code, http://cloc.sourceforge.net/)
+* toilet, boxes, ...
 
 
 
